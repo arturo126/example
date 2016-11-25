@@ -11,4 +11,5 @@ public class CalculatorImpl implements Calculator {
     public long difference(long a1, long a2) {
         return a1 - a2;
     }
+
 }
